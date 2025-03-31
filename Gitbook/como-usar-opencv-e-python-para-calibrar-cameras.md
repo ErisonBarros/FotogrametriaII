@@ -127,6 +127,24 @@ print("Coeficientes de distorção:\n", dist)
 
 ### Aplicação dos Parâmetros para Correção
 
+```
+# Carregar uma imagem de teste
+test_image = cv2.imread('./data/test_image.jpg')
+
+# Corrigir a distorção da imagem
+undistorted_image = cv2.undistort(test_image, K, dist, None, K)
+
+# Exibir a imagem original e a imagem corrigida lado a lado
+combined_image = np.hstack((test_image, undistorted_image))
+cv2.imshow('Original vs Undistorted', combined_image)
+cv2.waitKey(0)
+cv2.destroyAllWindows()
+```
+
+
+
+
+
 Para corrigir imagens:
 
 ```python
