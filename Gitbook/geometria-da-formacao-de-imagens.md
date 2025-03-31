@@ -20,7 +20,7 @@ Há três sistemas de coordenadas em jogo nesta configuração. Vamos analisá-l
 
 ## Geometria da formação de imagens
 
-![](https://secure.gravatar.com/avatar/708995cd13fb5756f6bc418aecb23b78?s=32\&d=mm\&r=g)[Satya Mallick](https://learnopencv.com/author/spmallick/)20 de fevereiro de 2020 [3 Comentários](https://learnopencv.com/geometry-of-image-formation/#disqus_thread)[Estrutura ](https://learnopencv.com/category/structure-from-motion/)[de calibração da câmera a partir do movimento](https://learnopencv.com/category/camera-calibration/)
+
 
 Neste post, explicaremos a formação da imagem de um ponto de vista geométrico.
 
