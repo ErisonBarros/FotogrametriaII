@@ -4,7 +4,6 @@ description: Prof. Erison Barros
 
 # Fotogrametria I
 
-# Fotogrametria I
 
 Bem-vindo ao repositório da disciplina **Fotogrametria II**, ministrada pelo Prof. Erison Barros.
 
